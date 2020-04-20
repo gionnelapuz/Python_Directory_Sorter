@@ -35,38 +35,6 @@ settings = {
 
 
 
-# settings = {
-#     "main_folder_path": 'C:/Users/Gionne/Downloads',
-#     "file_extensions": [
-#         {
-#             "sort_folder_path": "C:/Users/Gionne/Downloads/Videos",
-#             "extensions": ['.mp4', '.mkv', '.m4v', '.avi', '.webm']
-#         },
-#         {
-#             "sort_folder_path": "C:/Users/Gionne/Downloads/Images",
-#             "extensions": ['.png', '.jpg', '.jpeg', '.gif']
-#         },
-#         {
-#             "sort_folder_path": "C:/Users/Gionne/Downloads/Documents",
-#             "extensions": ['.pdf', '.doc', '.xls']
-#         },
-#         {
-#             "sort_folder_path": "C:/Users/Gionne/Downloads/Programs",
-#             "extensions": ['.exe', '.iso']
-#         },
-#         {
-#             "sort_folder_path": "C:/Users/Gionne/Downloads/Other",
-#             "extensions": ['.torrent']
-#         },
-#         {
-#             "sort_folder_path": "C:/Users/Gionne/Downloads/Zip Files",
-#             "extensions": ['.zip']
-#         },
-#     ]
-# }
-
-
-
 #METHOD TO MOVE FILE INTO ITS SORT FOLDER
 def moveFile(sort_folder_path, file_path):
  
