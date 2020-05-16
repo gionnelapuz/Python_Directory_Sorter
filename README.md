@@ -6,6 +6,9 @@ Python script that lets you sort files within a directory based on the file exte
   
 * **ManualSort.py**
   * Lets you just calls the script once if you need to use it.
+ 
+# Requirements
+  * [psutil](https://pypi.org/project/psutil/)
 
 # How to use
 Just replace the paths on the on the **Settings variable** to where the files should go based on their extensions
