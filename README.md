@@ -1,5 +1,5 @@
 # Python Directory Sorter
-This is a python script that lets you sort files within a directory based on the file extension. I have created two scripts for sorting and they are **AutoSort.py** and **ManualSort.py**.
+Python script that lets you sort files within a directory based on the file extension. I have created two scripts for sorting and they are **AutoSort.py** and **ManualSort.py**.
 
 * **AutoSort.py**
   * The script will periodically check the folder and sort it without you needing to run the script over and over again, this is basically what I wanted so I just made this script
