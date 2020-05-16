@@ -16,8 +16,8 @@ Just replace the paths on the on the **Settings variable** to where the files sh
   
     * `cd "C:\Users\Name\Python_Directory_Sorter" start pythonw.exe -c "from AutoSort import *; getInput('start')";`
   
-  * Start Script: `pythonw.exe -c "from AutoSort import *; getInput('start')";`
+  * **Start Script**: `pythonw.exe -c "from AutoSort import *; getInput('start')";`
   
-  * Stop Script: `pythonw.exe -c "from AutoSort import *; getInput('script')";`
+  * **Stop Script**: `pythonw.exe -c "from AutoSort import *; getInput('stop')";`
   
   
