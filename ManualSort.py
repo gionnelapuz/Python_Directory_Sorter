@@ -26,7 +26,7 @@ settings = {
             "extensions": ['.msi', '.exe', '.iso']
         },
         {
-            "sort_folder_path": "c:/Users/Gionne/Downloads/Zip Files",
+            "sort_folder_path": "c:/Users/Name/Downloads/Zip Files",
             "extensions": ['.zip', '.rar', '.7z']
         },
     ]
