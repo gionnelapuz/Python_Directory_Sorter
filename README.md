@@ -8,11 +8,14 @@ This is a python script that lets you sort files within a directory based on the
   * Lets you just run the script once if you need to use it.
 
 # How to use
-Just replace the paths on the on the **Settings variable** to where the files should go based on their extensions and if you want set a scheduler that would automatically sort the files.
+Just replace the paths on the on the **Settings variable** to where the files should go based on their extensions
 
 * **AutoSort.py**
-  * Since I am currently using windows and I want the script to run on startup, I created the .bat file to help me with it 
-    * `pythonw.exe -c "from AutoSort import *; getInput('start')"`
+  * Since I am currently using Windows and I want the script to run on startup, I created a **.bat** file to help me with it and will use **pythonw.exe** when calling the script so that the console window wont pop up
+    * `
+       cd "C:\Users\Name\Python_Directory_Sorter"
+       start pythonw.exe -c "from AutoSort import *; getInput('start')";
+      `
   
  
   
